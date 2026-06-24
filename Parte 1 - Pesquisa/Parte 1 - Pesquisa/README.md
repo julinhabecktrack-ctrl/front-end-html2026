@@ -1,10 +1,10 @@
-# 🌐 Fundamentos do Desenvolvimento Web
+#  Fundamentos do Desenvolvimento Web
 
 Notas de estudo sobre o funcionamento da internet e tecnologias de Frontend.
 
 ---
 
-## 💻 O que é Frontend?
+##  O que é Frontend?
 * É a interface visual de um site ou aplicativo.
 * É tudo o que o usuário vê, clica e interage.
 * **Exemplos:** Botões, menus, cores, textos e animações.
@@ -12,7 +12,7 @@ Notas de estudo sobre o funcionamento da internet e tecnologias de Frontend.
 
 ---
 
-## 🔄 Cliente x Servidor
+## Cliente x Servidor
 A internet funciona em um modelo de comunicação baseado em pedidos e respostas:
 
 * **Cliente:** É o seu aparelho (computador, celular) e o seu navegador (Chrome, Safari). Ele faz os pedidos.
@@ -21,7 +21,7 @@ A internet funciona em um modelo de comunicação baseado em pedidos e respostas
 
 ---
 
-## 🛠️ O Papel do HTML / CSS / JavaScript
+## O Papel do HTML / CSS / JavaScript
 Essas são as três tecnologias fundamentais do Frontend. Pense nelas como a construção de uma casa:
 
 * **HTML (Estrutura):** É o esqueleto da casa. Define o que é texto, o que é imagem, títulos e onde ficam os botões.
@@ -30,7 +30,7 @@ Essas são as três tecnologias fundamentais do Frontend. Pense nelas como a con
 
 ---
 
-## 📜 O que é W3C?
+##  O que é W3C?
 * É o *World Wide Web Consortium*, a organização internacional que dita as regras da internet.
 * Ela padroniza o HTML e o CSS para que sejam universais.
 * **Importância:** Garante que os sites funcionem da mesma forma em qualquer navegador (Chrome, Safari, Edge ou Firefox).
