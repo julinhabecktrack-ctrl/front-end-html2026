@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Meu Primeiro Projeto Web</title>
+</head>
+<body>
+
+    <!-- Título Principal -->
+    <h1>Fundamentos do Desenvolvimento Web</h1>
+    
+    <!-- Primeiro Subtítulo -->
+    <h2>Sobre o Projeto</h2>
+    
+    <!-- Três Parágrafos -->
+    <p>Este projeto foi criado para praticar os conceitos básicos de Frontend e entender como a internet funciona. É o meu primeiro passo no mundo da programação web.</p>
+    
+    <p>Aqui estou estruturando pastas e arquivos de forma profissional. Essa organização é fundamental para que o navegador e o GitHub entendam o projeto.</p>
+    
+    <p>O desenvolvimento web envolve a comunicação entre o cliente e o servidor, utilizando linguagens padronizadas para garantir que o site funcione em qualquer lugar.</p>
+
+    <!-- Segundo Subtítulo -->
+    <h2>Tecnologias Utilizadas</h2>
+    
+    <!-- Lista de Tecnologias -->
+    <ul>
+        <li><strong>HTML:</strong> Para estruturar o conteúdo do site.</li>
+        <li><strong>CSS:</strong> Para estilizar e dar cor ao projeto.</li>
+        <li><strong>JavaScript:</strong> Para adicionar interatividade e dinamismo.</li>
+    </ul>
+
+    <!-- Terceiro Subtítulo (Bônus para organizar a segunda lista) -->
+    <h2>Passos do Projeto</h2>
+    
+    <!-- Lista de Passos -->
+    <ol>
+        <li>Criação da pasta principal no computador.</li>
+        <li>Abertura do projeto no VS Code.</li>
+        <li>Criação da estrutura de pastas (css, js, img).</li>
+        <li>Desenvolvimento do arquivo index.html.</li>
+    </ol>
+
+</body>
+</html>
